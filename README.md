@@ -1,7 +1,3 @@
-# About Me
-Wassup twin! my name is Gabriel.. I'm Computer Engineering Student, looking to make cool stuffs as a developer :)
-
-
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ga-belem) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gabelem.moraes@gmail.com) 
 
