@@ -13,7 +13,7 @@
 
 > CE student from Campinas - São Paulo<br>
 
-My last project:<br>
+My latest work:<br>
 [EnglishWell](https://www.englishwell.com.br/) &nbsp;·&nbsp; <samp>react native, expo, vercel</samp><br>
 A Portfolio for an English Teacher
 
