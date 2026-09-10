@@ -40,3 +40,13 @@ jobs:
           git commit -m "stats: refresh profile graphics"
           git pull --rebase origin "$GITHUB_REF_NAME"
           git push
+
+          name: CI Automation
+on:
+  # Triggers the workflow automatically on push events but only for the main branch
+  push:
+    branches: [ "main" ]
+  # Triggers the workflow when a pull request is opened or updated for the main branch
+  pull_request:
+    branches: [ "main" ]
+
