@@ -23,7 +23,7 @@ My last project:<br>
 <img src="./hd-projects.svg" width="620" alt="projects"/>
 
 **[instagram_sidebar](https://github.com/gabelem/instagram_sidebar)** &nbsp;·&nbsp; <samp>html, css</samp><br>
-Instagram Sidebar layout test.<br>
+Instagram Sidebar layout test<br>
 
 <img src="./hd-stats.svg" width="620" alt="stats"/>
 
