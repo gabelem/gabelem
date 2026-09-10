@@ -19,7 +19,7 @@ A Portfolio for an English Teacher
 
 <img src="./hd-stack.svg" width="620" alt="stack"/>
 
-<samp>c &nbsp; c++ &nbsp; python &nbsp; javascript &nbsp; html &nbsp; css &nbsp; git &nbsp; linux</samp>
+<samp>c/c++ &nbsp; python &nbsp; javascript &nbsp; html &nbsp; css &nbsp; git &nbsp; linux</samp>
 
 <img src="./hd-projects.svg" width="620" alt="projects"/>
 
