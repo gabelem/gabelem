@@ -26,6 +26,9 @@ A Portfolio for an English Teacher
 **[instagram_sidebar](https://github.com/gabelem/instagram_sidebar)** &nbsp;·&nbsp; <samp>html, css</samp><br>
 Instagram Sidebar layout test<br>
 
+**[godot-3d-game-cs](https://github.com/gabelem/godot-3d-game-cs)** &nbsp;·&nbsp; <samp>c#</samp><br>
+3D Game made in Godot using C#<br>
+
 <img src="./hd-stats.svg" width="620" alt="stats"/>
 
 <div align="center">
